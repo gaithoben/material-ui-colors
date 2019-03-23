@@ -21,3 +21,25 @@ import { red } from 'material-ui-colors';
 
 <div style={{backgroundColor: red[500]}}
 ```
+
+# material ui colors
+
+red
+pink
+purple
+deepPurple
+indigo
+blue
+lightBlue
+cyan
+teal
+green
+lightGreen
+lime
+yellow
+amber
+orange
+deepOrange
+brown
+grey
+blueGrey
